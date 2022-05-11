@@ -10,15 +10,19 @@ You must have following version of python installed in your system
 Installation
 ------------------
 You have to perform the following steps
+
 ```bash
 git clone https://github.com/SHAHKRISHS/Keylogger.git
 ```
+
 ```bash
 cd Keylogger 
 ```
+
 ```bash
 pip3 install -r requirements.txt 
 ```
+
 ```bash
 python3 main.py
 ```
