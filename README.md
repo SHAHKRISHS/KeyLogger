@@ -25,3 +25,14 @@ pip3 install -r requirements.txt
 ```
 python3 main.py
 ```
+
+
+Screenshots
+------------------
+
+1. Requirements
+![This is a requirement image]()
+2. Running a python file
+![This is a python file image]()
+3. output stored in a file
+![This is a output file image]()
