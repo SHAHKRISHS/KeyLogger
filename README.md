@@ -47,7 +47,8 @@ Screenshots
 Upcoming Features
 ------------------
 
-1. Give the email access so that the attacker can get the strokes everyday through email.
+1. Give the email access so that the attacker can get the strokes through email.
+2. Give the functionality of time so that the attacker can get the strokes on the given period of time.
 
 Information
 ------------------
