@@ -31,9 +31,15 @@ Screenshots
 ------------------
 
 1. **Requirements.**
-![This is a requirement image]()
+
+![This is a requirement image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Requirements.png)
+
 2. **Running a python file.**
-![This is a python file image]()
+
+![This is a python file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Python%20main%20File%20running.png)
+
 3. If I search for **netflix.com** then the result will be as shown below.
+
 4. **output stored in a file**
-![This is a output file image]()
+
+![This is a output file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Output%20of%20the%20file.png)
