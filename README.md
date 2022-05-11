@@ -1,4 +1,4 @@
-# keylogger-project
+# Keylogger
 It is simple Keylogger program which will take input of the keystrokes and store it in the file.
 
 Pre-requisite
@@ -44,9 +44,14 @@ Screenshots
 
 ![This is a output file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Output%20of%20the%20file.png)
 
+Upcoming Features
+------------------
+
+1. Give the email access so that the attacker can get the strokes everyday through email.
 
 Information
 ------------------
+
 Author: Krish Shah
 
 License: [MIT License](https://opensource.org/licenses/MIT)
