@@ -30,9 +30,10 @@ python3 main.py
 Screenshots
 ------------------
 
-1. Requirements
+1. **Requirements.**
 ![This is a requirement image]()
-2. Running a python file
+2. **Running a python file.**
 ![This is a python file image]()
-3. output stored in a file
+3. If I search for **netflix.com** then the result will be as shown below.
+4. **output stored in a file**
 ![This is a output file image]()
