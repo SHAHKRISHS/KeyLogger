@@ -43,3 +43,10 @@ Screenshots
 4. **output stored in a file**
 
 ![This is a output file image](https://github.com/SHAHKRISHS/Keylogger/blob/main/Screenshots/Output%20of%20the%20file.png)
+
+
+Information
+------------------
+Author: Krish Shah
+
+License: [MIT License](https://opensource.org/licenses/MIT)
